@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TwoActivityBio</string>
+    <string-array name="major">
+        <item>Computer Science</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Electrical Engineering</item>
+        <item>English</item>
+        <item>History</item>
+        <item>Mechanical Engineering</item>
+    </string-array>
+</resources>
